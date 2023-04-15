@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "814934141691",
+    "project_id": "chhatarnivaas-c5f65",
+    "storage_bucket": "chhatarnivaas-c5f65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:814934141691:android:9ea6639cafbfa7c4999e5e",
+        "android_client_info": {
+          "package_name": "com.example.chhatarnivaas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "814934141691-6s5iaf7ebmn8ak577katqst31kqb7aqf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACt0GLG2Hn9a5vVlkUYagWToKhW28EP5k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "814934141691-6s5iaf7ebmn8ak577katqst31kqb7aqf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
